@@ -5,29 +5,65 @@
 <!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
+	<style>
+		*{ margin: 0; padding: 0;}
+
+		body {
+		overflow: hidden;
+		}
+
+		#back {
+		background: url('images/home-bg-big.jpg') no-repeat center center fixed;
+			-webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+
+		height: 100vh;
+		}
+
+		/*.cloud {*/
+		  /*background-image: url('images/clouds.png');*/
+		  /*background-position: 0px 0px;*/
+			/*background-repeat: repeat-x;*/
+		  /*height: 100%;*/
+		  /*opacity: 0.8;*/
+			/*position:absolute;*/
+		 /*z-index:1;*/
+		/*}*/
+
+		/*@keyframes cloud {*/
+		   /*100% { background-position: -1900px; }*/
+		/*}*/
+
+
+		/*.cloud {*/
+		/*animation: cloud 100s linear infinite;*/
+		/*}*/
+	</style>
 <script type="text/javascript" src="../../extras/jquery.min.1.7.js"></script>
 <script type="text/javascript" src="../../extras/jquery-ui-1.8.20.custom.min.js"></script>
 <script type="text/javascript" src="../../extras/jquery.mousewheel.min.js"></script>
 <script type="text/javascript" src="../../extras/modernizr.2.5.3.min.js"></script>
 <script type="text/javascript" src="../../lib/hash.js"></script>
 </head>
-<body>
-
-<div id="canvas">
-	<div id="book-zoom">
-		<div class="sj-book">
-			<div depth="5" class="hard"> <div class="side"></div> </div>
-			<div depth="5" class="hard front-side"> <div class="depth"></div> </div>
-			<div class="own-size"></div>
-			<div class="own-size even"></div>
-			<div class="hard fixed back-side p111"> <div class="depth"></div> </div>
-			<div class="hard p112"></div>
+<body  id="back">
+	<!--<div class="cloud"></div>-->
+	<div id="canvas">
+		<div id="book-zoom">
+			<div class="sj-book">
+				<div depth="5" class="hard"> <div class="side"></div> </div>
+				<div depth="5" class="hard front-side"> <div class="depth"></div> </div>
+				<div class="own-size"></div>
+				<div class="own-size even"></div>
+				<div class="hard fixed back-side p111"> <div class="depth"></div> </div>
+				<div class="hard p112"></div>
+			</div>
+		</div>
+		<div id="slider-bar" class="turnjs-slider">
+			<div id="slider"></div>
 		</div>
 	</div>
-	<div id="slider-bar" class="turnjs-slider">
-		<div id="slider"></div>
-	</div>
-</div>
 
 
 <script type="text/javascript">
