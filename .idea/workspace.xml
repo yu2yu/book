@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e5b98c-e689-4baa-8a7c-134156b74c56" name="Default" comment="" />
+    <list default="true" id="53e5b98c-e689-4baa-8a7c-134156b74c56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page23.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page24.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page25.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page9.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page19.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page20.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page21.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page22.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page25.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page26.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page27.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page9.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/css/jquery.ui.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/jquery.ui.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/css/jquery.ui.html4.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/jquery.ui.html4.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/css/steve-jobs-html4.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/steve-jobs-html4.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/css/steve-jobs.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/steve-jobs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/fonts/Stempel-Garamond-W01-Roman.woff" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/fonts/Stempel-Garamond-W01-Roman.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/index.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/js/steve-jobs.js" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/js/steve-jobs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page100.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page100.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page101.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page101.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page102.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page102.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page103.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page103.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page104.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page104.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page105.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page105.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page106.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page106.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page107.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page107.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page108.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page108.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page109.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page109.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page110.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page110.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page28.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page28.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page29.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page29.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page30.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page30.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page31.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page31.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page32.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page32.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page33.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page33.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page34.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page34.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page35.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page35.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page36.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page36.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page37.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page37.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page38.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page38.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page39.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page39.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page40.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page40.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page41.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page41.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page42.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page42.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page43.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page43.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page44.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page44.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page45.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page45.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page46.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page46.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page47.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page47.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page48.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page48.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page49.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page49.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page5.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page50.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page50.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page51.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page51.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page52.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page52.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page53.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page53.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page54.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page54.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page55.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page55.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page56.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page56.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page57.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page57.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page58.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page58.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page59.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page59.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page6.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page6.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page60.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page60.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page61.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page62.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page63.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page64.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page65.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page66.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page66.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page67.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page67.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page68.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page68.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page69.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page70.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page71.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page71.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page72.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page73.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page74.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page75.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page76.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page77.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page77.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page78.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page78.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page79.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page79.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page80.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page80.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page81.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page81.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page82.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page82.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page83.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page83.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page84.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page84.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page85.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page85.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page86.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page86.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page87.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page87.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page88.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page88.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page89.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page89.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page90.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page90.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page91.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page91.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page92.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page92.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page93.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page93.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page94.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page94.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page95.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page95.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page96.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page96.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page97.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page97.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page98.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page98.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/page99.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page99.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pages/preview.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/preview.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/05.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/06.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/07.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/08.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/09.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/10.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/11.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/12.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/13.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/14.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/15.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/16.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/17.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/18.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/19.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/20.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/21.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/22.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/23.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/24.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/24.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/24.png" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/24.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/25.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/25.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/26.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/26.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/27.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/27.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/29.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/29.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/30.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/30.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/31.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/31.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/32.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/32.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/33.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/33.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/34.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/34.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/35.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/35.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/36.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/36.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/37.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/37.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/38.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/38.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/39.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/39.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/40.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/40.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/41.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/41.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/42.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/42.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/43.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/43.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/44.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/44.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/45.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/45.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/46.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/46.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/47.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/47.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/48.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/48.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/book-covers.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/book-covers.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/book-covers.png" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/book-covers.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/books.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/books.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/collegue.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/collegue.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/gradient-page-left.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/gradient-page-left.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/gradient-page-right.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/gradient-page-right.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/highschool.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/highschool.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/highschool2.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/highschool2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/loader.gif" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/pages-depth.png" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/pages-depth.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/preview.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/preview.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/spine.png" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/spine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/thumb.png" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/thumb.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/steve-jobs/pics/young.jpg" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pics/young.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +207,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/samples/steve-jobs/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="483">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page26.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page27.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -26,6 +251,35 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page8.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page7.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page11.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page9.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page10.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page5.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page12.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page13.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page14.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page15.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page16.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page17.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page18.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page19.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page20.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page21.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page22.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page23.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page24.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page25.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page26.html" />
+        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page27.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -72,7 +326,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="steve-jobs" />
+              <option name="myItemId" value="Chasing-after-wind" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -108,6 +362,151 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="book" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="book" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -123,16 +522,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33052632" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33052632" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -140,7 +541,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -156,10 +556,202 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/samples/steve-jobs/index.html">
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1534745708966" expanded="false" signature="125:151" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="143" lean-forward="false" selection-start-line="13" selection-start-column="143" selection-end-line="13" selection-end-column="143" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#p#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="166" lean-forward="false" selection-start-line="21" selection-start-column="166" selection-end-line="21" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="96" lean-forward="false" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="96" lean-forward="false" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="183" lean-forward="false" selection-start-line="11" selection-start-column="183" selection-end-line="11" selection-end-column="183" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="95" lean-forward="false" selection-start-line="21" selection-start-column="95" selection-end-line="21" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page23.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="258" lean-forward="false" selection-start-line="10" selection-start-column="258" selection-end-line="10" selection-end-column="258" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <marker date="1534745708702" expanded="false" signature="145:162" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="165" lean-forward="false" selection-start-line="18" selection-start-column="165" selection-end-line="18" selection-end-column="165" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="163" lean-forward="false" selection-start-line="31" selection-start-column="163" selection-end-line="31" selection-end-column="163" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
