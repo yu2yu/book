@@ -2,26 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53e5b98c-e689-4baa-8a7c-134156b74c56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pics/book6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/css/steve-jobs-html4.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/Chasing-after-wind-html4.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/css/steve-jobs.css" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/css/Chasing-after-wind.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/js/steve-jobs.js" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/js/Chasing-after-wind.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/index.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page11.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page13.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page15.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page15.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page17.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page17.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page19.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page19.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page22.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page22.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page24.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page24.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page9.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page28.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page28.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page29.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page29.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page30.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page30.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page31.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page31.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page32.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page32.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page33.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page33.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page34.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page34.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page35.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page35.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page36.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page36.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page37.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page37.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page38.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page38.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page39.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page39.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page40.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page40.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page41.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page41.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page42.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page42.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page43.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page43.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page44.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page44.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page45.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page45.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page46.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page46.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page47.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page47.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page48.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page48.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page49.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page49.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page50.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page50.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page51.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page51.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page52.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page52.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page53.html" afterPath="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page53.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,21 +41,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="640">
+              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new-sprites.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pics/new-sprites.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -54,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/css/default.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -63,28 +65,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="481">
+              <caret line="163" column="4" lean-forward="true" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page5.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hash.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/hash.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page5.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="207">
+              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page26.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html">
+      <file leaf-file-name="page12.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,6 +122,10 @@
       <find>steve</find>
       <find>.sample</find>
       <find>bookshelf</find>
+      <find>圣母</find>
+      <find>接受世界</find>
+      <find>#page</find>
+      <find>page</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,15 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page8.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page7.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page11.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page9.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page10.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page5.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page12.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page13.html" />
-        <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page14.html" />
         <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page15.html" />
         <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page16.html" />
         <option value="$PROJECT_DIR$/samples/steve-jobs/pages/page17.html" />
@@ -150,6 +157,34 @@
         <option value="$PROJECT_DIR$/samples/Chasing-after-wind/js/Chasing-after-wind.js" />
         <option value="$PROJECT_DIR$/css/default.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page28.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page29.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page30.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page31.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page32.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page33.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page34.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page35.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page36.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page37.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page38.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page39.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page40.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page41.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page42.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page43.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page44.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page45.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page46.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page47.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page48.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page49.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page50.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page51.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page52.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page53.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html" />
+        <option value="$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html" />
       </list>
     </option>
   </component>
@@ -182,6 +217,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,27 +258,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,6 +391,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -431,27 +458,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33052632" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33052632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -463,142 +490,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <marker date="1534835661577" expanded="false" signature="126:152" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="143" lean-forward="false" selection-start-line="13" selection-start-column="143" selection-end-line="13" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#p#2;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#2;n#p#2;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="166" lean-forward="false" selection-start-line="21" selection-start-column="166" selection-end-line="21" selection-end-column="166" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page19.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="96" lean-forward="false" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page20.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="96" lean-forward="false" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page21.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="183" lean-forward="false" selection-start-line="11" selection-start-column="183" selection-end-line="11" selection-end-column="183" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page22.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="95" lean-forward="false" selection-start-line="21" selection-start-column="95" selection-end-line="21" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="258" lean-forward="false" selection-start-line="10" selection-start-column="258" selection-end-line="10" selection-end-column="258" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,9 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <marker date="1534835661533" expanded="false" signature="146:163" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="165" lean-forward="false" selection-start-line="18" selection-start-column="165" selection-end-line="18" selection-end-column="165" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,23 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
           <caret line="31" column="163" lean-forward="false" selection-start-line="31" selection-start-column="163" selection-end-line="31" selection-end-column="163" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,14 +569,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hash.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/bookshelf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
@@ -704,31 +582,15 @@
         <state relative-caret-position="345">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -743,10 +605,308 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/pics/book2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/preview.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pics/book5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pics/book1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page26.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page27.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="33" />
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page28.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page29.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="187" lean-forward="false" selection-start-line="17" selection-start-column="187" selection-end-line="17" selection-end-column="187" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page30.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page32.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="94" lean-forward="false" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page33.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page34.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page35.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page36.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page37.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page38.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page39.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="72" lean-forward="false" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page41.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="420" lean-forward="false" selection-start-line="8" selection-start-column="420" selection-end-line="8" selection-end-column="420" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page40.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page43.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page44.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page45.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page46.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page47.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="75" lean-forward="false" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page48.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#46#52#0" expanded="true" />
+            <element signature="e#52#58#0" expanded="true" />
+            <element signature="e#101#107#0" expanded="true" />
+            <element signature="e#107#113#0" expanded="true" />
+            <element signature="e#146#152#0" expanded="true" />
+            <element signature="e#152#158#0" expanded="true" />
+            <element signature="e#188#194#0" expanded="true" />
+            <element signature="e#194#200#0" expanded="true" />
+            <element signature="e#225#231#0" expanded="true" />
+            <element signature="e#231#237#0" expanded="true" />
+            <element signature="e#268#274#0" expanded="true" />
+            <element signature="e#274#280#0" expanded="true" />
+            <element signature="e#300#306#0" expanded="true" />
+            <element signature="e#306#312#0" expanded="true" />
+            <element signature="e#429#435#0" expanded="true" />
+            <element signature="e#435#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page49.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#120#126#0" expanded="true" />
+            <element signature="e#126#132#0" expanded="true" />
+            <element signature="e#226#232#0" expanded="true" />
+            <element signature="e#232#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page51.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page52.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="209" lean-forward="false" selection-start-line="13" selection-start-column="209" selection-end-line="13" selection-end-column="209" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page50.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page53.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="163" column="4" lean-forward="true" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/Chasing-after-wind/pages/page5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
         </state>
       </provider>
